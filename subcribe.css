@@ -1,0 +1,21 @@
+.subs {
+    background-color: rgb(185, 4, 4);
+    color: aliceblue;
+    border: none;
+    border-radius: 2px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 0.15s;
+}
+
+.subs:hover {
+    opacity: 0.8;
+}
+
+.subs:active {
+    opacity: 0.3;
+}
